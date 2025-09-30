@@ -1,2 +1,6 @@
 este es el fichero1
+<<<<<<< HEAD
 SEGUNDA LINEA RAMA2
+=======
+SEGUNDA LINEA RAMA3
+>>>>>>> rama3
